@@ -1,1 +1,1 @@
-# PROJECT-1.-HeadHunter-
+# Проект #1. Анализ данных HeadHunter
