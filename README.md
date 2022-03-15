@@ -20,6 +20,7 @@ ____
  ____
 ### Базовый анализ структуры данных
 [hh.csv](https://drive.google.com/file/d/1IH_0aL3kU0N08PTw4wsdGGJUX-foeqjD/view?usp=sharing)
+
 Исходный файл представляет собой dataframe из 44744 объектов (резюме соискателей) с 12 признаками (пол, возраст, город, опыт работы и т.д., Dtype = 'object'). В трех из них присутствуют пропуски.
 
 :arrow_up: [к оглавлению](https://github.com/IgorAbalakin/HH_data_project/blob/main/README.md#Оглавление)
