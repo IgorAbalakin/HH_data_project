@@ -5,9 +5,9 @@
 
 [2. Базовый анализ структуры данных](https://github.com/IgorAbalakin/HH_data_project/blob/main/README.md#Базовый-анализ-структуры-данных) 
 
-[3. Преобразование данных](https://github.com/IgorAbalakin/HH_data_project/Project0/blob/main/README.md#Преобразование-данных) 
+[3. Преобразование данных](https://github.com/IgorAbalakin/HH_data_project/blob/main/README.md#Преобразование-данных) 
 
-[4. Исследование зависимостей в данных](https://github.com/IgorAbalakin/HH_data_project/Project0/blob/main/README.md#Исследование-зависимостей-в-данных) 
+[4. Исследование зависимостей в данных](https://github.com/IgorAbalakin/HH_data_project/blob/main/README.md#Исследование-зависимостей-в-данных) 
 
 [5. Очистка данных](https://github.com/IgorAbalakin/HH_data_project/blob/main/README.md#Очистка-данных) 
  
